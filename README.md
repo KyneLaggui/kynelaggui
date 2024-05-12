@@ -4,6 +4,8 @@
 
 Hi I am Kyne Domerei N. Laggui also known as **Kaydee** a frontend developer focused on JavaScript-based technologies.I also possess skills in UI/UX design for websites. Seeking to expand my knowledge in software development, I am open to exploring backend development and adapting to various programming languages.
 
+---
+
 ### 🧰 Languages and Tools
 
 
@@ -21,6 +23,7 @@ Hi I am Kyne Domerei N. Laggui also known as **Kaydee** a frontend developer foc
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<br />
 
 #
 
