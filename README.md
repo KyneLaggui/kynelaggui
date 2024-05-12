@@ -22,13 +22,20 @@ Hi I am Kyne Domerei N. Laggui also known as **Kaydee** a frontend developer foc
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
-\
-\
+#
+
+
 ### 🐍 Snake eating my Contributions  
 
 <div align="center">
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KyneLaggui/KyneLaggui/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+#
+
+
+
+
 
 
