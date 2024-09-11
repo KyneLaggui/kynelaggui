@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/62b7c253-d6ec-4c06-b321-46e561b06eb4)# 🐧 Kaydee
+# 🐧 Kaydee
 
 **`To be the best < To keep getting better`**
 
@@ -14,8 +14,6 @@ Hi I am Kyne Domerei N. Laggui also known as **Kaydee** a frontend developer foc
 
 ### 🛠 Other Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,vercel,figma,photoshop,linux,unity)](https://skillicons.dev)
-
-<!-- mysql,python,php,cs -->
 
 <br />
 
