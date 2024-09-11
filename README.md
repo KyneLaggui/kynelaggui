@@ -7,7 +7,7 @@ Hi I am Kyne Domerei N. Laggui also known as **Kaydee** a frontend developer foc
 ---
 
 ### 🌐 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,next,vite,wordpress,tailwind,bootstrap,shadcn,sass,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vite,wordpress,tailwind,bootstrap,sass,html,css)](https://skillicons.dev)
 
 ### ⚙️ Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,firebase,python,laravel)](https://skillicons.dev)
